@@ -68,10 +68,6 @@ header, footer{
 
 }
 
-.hero-text{
- /** May get rid of this class**/
-}
-
 .hero-main-text{
     font-size: 48px;
     font-weight: bolder;
